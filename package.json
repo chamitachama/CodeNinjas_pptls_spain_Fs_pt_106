@@ -19,5 +19,10 @@
   "homepage": "https://github.com/chamitachama/CodeNinjas_pptls_spain_Fs_pt_106#readme",
   "devDependencies": {
     "vite": "^6.3.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
