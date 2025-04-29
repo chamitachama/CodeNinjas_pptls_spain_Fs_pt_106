@@ -3,8 +3,8 @@ Como levantar el proyecto
 ```
 $ git clone git@github.com:chamitachama/CodeNinjas_pptls_spain_Fs_pt_106.git
 $ cd CodeNinjas_pptls_spain_Fs_pt_106
-$ npm
-$ npm run vite
+$ npm install
+$ npm run dev
 ```
 
 👥 Colaboradores
