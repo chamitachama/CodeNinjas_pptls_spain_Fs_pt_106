@@ -1,0 +1,22 @@
+body{
+    background-color: darkmagenta;
+}
+#Rock:hover {
+transform: scale(1.5);
+transition: 0.5s;}
+
+#Paper:hover {
+    transform: scale(1.5);
+    transition: 0.5s;}
+
+    #Scissors:hover {
+        transform: scale(1.5);
+        transition: 0.5s;}
+
+        #Lizard:hover {
+            transform: scale(1.5);
+            transition: 0.5s;}
+
+            #Spock:hover {
+                transform: scale(1.5);
+                transition: 0.5s;}
