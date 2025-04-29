@@ -1,0 +1,23 @@
+{
+  "name": "codeninjas_pptls_spain_fs_pt_106",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamitachama/CodeNinjas_pptls_spain_Fs_pt_106.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamitachama/CodeNinjas_pptls_spain_Fs_pt_106/issues"
+  },
+  "homepage": "https://github.com/chamitachama/CodeNinjas_pptls_spain_Fs_pt_106#readme",
+  "devDependencies": {
+    "vite": "^6.3.3"
+  }
+}
